@@ -1,0 +1,6 @@
+[submodule "proxy-scripts"]
+	path = proxy-scripts
+	url = https://github.com/brucekomike/proxy-scripts.git
+[submodule "RAD-qt-widget"]
+	path = RAD-qt-widget
+	url = https://github.com/brucekomike/RAD-qt-widget.git
