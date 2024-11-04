@@ -4,3 +4,9 @@
 [submodule "RAD-qt-widget"]
 	path = RAD-qt-widget
 	url = https://github.com/brucekomike/RAD-qt-widget.git
+[submodule "server-deploy"]
+	path = server-deploy
+	url = https://github.com/brucekomike/server-deploy
+[submodule "deploy-scripts-template"]
+	path = deploy-scripts-template
+	url = https://github.com/brucekomike/deploy-scripts-template.git
