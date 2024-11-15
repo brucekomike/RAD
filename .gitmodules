@@ -13,7 +13,9 @@
 [submodule "deploy-scripts-template"]
 	path = deploy-scripts-template
 	url = https://github.com/brucekomike/deploy-scripts-template.git
-  branch = main
+	branch = main
 [submodule "RAD-qt-quick"]
 	path = RAD-qt-quick
 	url = https://github.com/brucekomike/RAD-qt-quick
+	branch = main
+
