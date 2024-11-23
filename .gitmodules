@@ -19,3 +19,6 @@
 	url = https://github.com/brucekomike/RAD-qt-quick
 	branch = main
 
+[submodule "RAD-cli"]
+	path = RAD-cli
+	url = https://github.com/brucekomike/RAD-cli.git
