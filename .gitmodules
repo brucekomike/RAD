@@ -4,7 +4,7 @@
 	branch = main
 [submodule "RAD-qt-widget"]
 	path = RAD-qt-widget
-	url = https://github.com/brucekomike/RAD-qt-widget.git
+	url = https://github.com/deploy-org-cn/RAD-qt-widget.git
 	branch = main
 [submodule "server-deploy"]
 	path = server-deploy
@@ -16,9 +16,9 @@
 	branch = main
 [submodule "RAD-qt-quick"]
 	path = RAD-qt-quick
-	url = https://github.com/brucekomike/RAD-qt-quick
+	url = https://github.com/deploy-org-cn/RAD-qt-quick
 	branch = main
 [submodule "RAD-cli"]
 	path = RAD-cli
-	url = https://github.com/brucekomike/RAD-cli.git
-  branch = main
+	url = https://github.com/deploy-org-cn/RAD-cli.git
+	branch = main
